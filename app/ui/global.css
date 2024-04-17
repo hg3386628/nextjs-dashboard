@@ -1,3 +1,8 @@
+/**
+ * FILEPATH: /c:/app/react-learn/nextjs-dashboard/app/ui/global.css
+ * This file contains the global CSS styles for the Next.js dashboard application.
+ * It includes the base, components, and utilities styles from Tailwind CSS.
+ */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
